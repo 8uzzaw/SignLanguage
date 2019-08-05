@@ -1,4 +1,4 @@
-# SignLanguage Classification in real-time
+# Sign Language Classification in real-time
 
 ## Description
 
